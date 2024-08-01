@@ -1,5 +1,7 @@
 @media only screen and (max-width: 1210px) {
-
+    *{
+        overflow: hidden;
+    }
 
     .tagl2 {
         font-size: 35px;
@@ -8,7 +10,10 @@
 
 @media only screen and (max-width: 500px) {
 
-
+    *{
+        overflow: hidden;
+    }
+    
     .brand {
         font-size: 20px;
     }
