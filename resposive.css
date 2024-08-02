@@ -27,6 +27,11 @@
     .btn1,.btn2{
         font-size: 13px !important;
     }
+
+    .part-img img{
+        height: 150px;
+        width: 150px;
+    }
 }
 
 
