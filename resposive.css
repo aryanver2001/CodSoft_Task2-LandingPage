@@ -5,8 +5,8 @@
     }
 }
 
-@media only screen and (max-width: 500px){
-    
+@media only screen and (max-width: 500px) {
+
     .brand {
         font-size: 20px;
     }
@@ -18,39 +18,44 @@
         height: auto;
     }
 
-    .brand-img{
+    .brand-img {
         margin: 20px;
     }
 
-    .brand-img img{
+    .brand-img img {
         height: 350px;
         width: 250px;
     }
 
-    .tagl1{
+    .tagl1 {
         font-size: 10px;
         letter-spacing: 3px;
         margin: 0;
     }
 
-    .tagl2{
+    .tagl2 {
         letter-spacing: 3px;
         font-size: 15px;
     }
 
-    .tagl3{
+    .tagl3 {
         font-size: 12px;
         margin: 5px;
     }
 
-    .tag-btn{
+    .tag-btn {
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: row;
     }
 
-    .sec-head{
+    .btn1,
+    .btn2 {
+        font-size: 10px !important;
+    }
+
+    .sec-head {
         font-size: 15px;
     }
 
@@ -63,7 +68,7 @@
         width: 0;
     }
 
-    .desc-head{
+    .desc-head {
         text-align: center;
     }
 }

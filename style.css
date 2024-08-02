@@ -89,6 +89,7 @@
 .btn2 {
     text-transform: uppercase;
     /* width: 120px; */
+    font-size: 15px !important;
     margin: 0 5px;
 }
 
