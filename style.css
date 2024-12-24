@@ -85,6 +85,11 @@
     margin: 30px;
 }
 
+.links{
+    text-decoration: none;
+    color: white;
+}
+
 .btn1,
 .btn2 {
     text-transform: uppercase;
